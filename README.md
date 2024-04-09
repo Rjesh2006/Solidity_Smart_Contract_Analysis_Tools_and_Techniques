@@ -13,7 +13,7 @@
 *Setup and usage examples in this repo.*
 
 
-[now you go through with my solgraph implimentaion file to click here:]()
+[now you go through with my **Solgraph implimentaion file to click here:**]()
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-[now you go through with my solither implimentaion file to click here:]()
+[now you go through with my **Slither implimentaion file to click here:**]()
 
 
 
