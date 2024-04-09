@@ -1,6 +1,6 @@
 # 1..Solgraph
 
-<ins>*Solgraph visualizes Solidity smart contract control flow, aiding in vulnerability detection and code optimization.*</ins>
+<ins>**Solgraph visualizes Solidity smart contract control flow, aiding in vulnerability detection and code optimization.**</ins>
 
 ## Why Solgraph?
 
@@ -20,7 +20,7 @@
 
 # 2...Slither
 
-*Slither is a Solidity static analysis framework for identifying vulnerabilities and bad practices in smart contracts.*
+<ins>**Slither is a Solidity static analysis framework for identifying vulnerabilities and bad practices in smart contracts.**</ins>
 
 ## Why Slither?
 
