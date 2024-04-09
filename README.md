@@ -1,6 +1,6 @@
 # 1..Solgraph
 
-*Solgraph visualizes Solidity smart contract control flow, aiding in vulnerability detection and code optimization.*
+<ins>*Solgraph visualizes Solidity smart contract control flow, aiding in vulnerability detection and code optimization.*</ins>
 
 ## Why Solgraph?
 
