@@ -11,7 +11,7 @@ sudo apt install solc
 ```
 ***1.option***
 
-```
+
 
 # Install libssl-dev, python3-dev, and python3-pip
 ```
@@ -94,10 +94,10 @@ contract Exceptions {
 ***ALSO YOU CAN EXPLORE THIS FOR MORE SMART CONTRACTS➡️***
 [auditing-smart-contracts)](https://hackenproof.com/blog/for-hackers/how-to-use-slither-for-auditing-smart-contracts)***
 
-**We can execute such a contract by directly using the following command:**
+***We can execute such a contract by directly using the following command:***
+
 ```
 $ myth analyze *filepath*
-```
 ```
 
 
