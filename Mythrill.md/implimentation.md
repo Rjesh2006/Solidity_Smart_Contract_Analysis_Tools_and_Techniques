@@ -95,11 +95,10 @@ contract Exceptions {
 [auditing-smart-contracts)](https://hackenproof.com/blog/for-hackers/how-to-use-slither-for-auditing-smart-contracts)***
 
 **We can execute such a contract by directly using the following command:**
-
-$ myth analyze <file_path>
-
 ```
-$ myth analyze <file_path>
+$ myth analyze *filepath*
+```
+```
 
 
 **then the final result will be like this:**
