@@ -95,3 +95,6 @@ contract Exceptions {
 $ myth analyze <file_path>
 
 ```
+
+
+***after that the final result wiil be like this:***
