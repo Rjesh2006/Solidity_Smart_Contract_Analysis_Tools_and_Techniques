@@ -12,7 +12,7 @@ sudo apt install solc
 ***1.option***
 
 ```
-first option
+
 # Install libssl-dev, python3-dev, and python3-pip
 ```
 sudo apt install libssl-dev python3-dev python3-pip
