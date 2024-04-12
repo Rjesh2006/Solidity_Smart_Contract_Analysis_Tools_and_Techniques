@@ -1,3 +1,5 @@
+Surya installation on ubuntu terminall by the given commands:---here:::🛰️
+
 ```
 sudo apt install npm
 ```
@@ -12,8 +14,7 @@ npm install -g surya
 ```
 npm install -g surya
 ```
-if is will give erro then gor for the root user
-
+*if it's giving error then:-*
 ```
 sudo su
 ```
@@ -26,7 +27,8 @@ npm install -g surya
 apt install graphviz
 ```
 
-put here the image of the creating .sol file
+*put here the image of the creating .sol file*
+
 
 ```
 surya ftrace APMRegistry:: rajesh2.sol
