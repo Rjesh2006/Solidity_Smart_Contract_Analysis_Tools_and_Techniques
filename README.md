@@ -58,6 +58,21 @@
 
 
 
+# 4.Surya
+
+1. **Contract Structure Information**:
+    - Provides details about the contracts' structure.
+    - Generates inheritance graphs.
+    - Supports querying the function call graph.
+
+2. **Visual Outputs**:
+    - Outputs a **DOT-formatted graph** of the control flow.
+    - Visualizes the relationships between functions and contracts.
+
+3. **Manual Inspection Aid**:
+    - Helps auditors understand and analyze Solidity smart contracts.
+    - Useful for security assessments and vulnerability detection.
 
 
+[you can click here to get the command's of the surya implimentation on ubuntu :_⬅️](https://github.com/Rjesh2006/Solidity_Smart_Contract_Analysis_Tools_and_Techniques/tree/main/Surya.md)
 
