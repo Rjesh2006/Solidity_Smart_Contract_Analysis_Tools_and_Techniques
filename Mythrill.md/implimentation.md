@@ -8,7 +8,11 @@ sudo apt update
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:ethereum/ethereum
 sudo apt install solc
+
+* 1.option*
+
 ```
+first option
 # Install libssl-dev, python3-dev, and python3-pip
 ```
 sudo apt install libssl-dev python3-dev python3-pip
@@ -19,6 +23,7 @@ pip3 install mythril
 myth version
 ```
 
+*2. option*
 
 **via Dokcer:**
 *All Mythril releases, starting from v0.18.3, are published to DockerHub as Docker images under the mythril/myth name.*
