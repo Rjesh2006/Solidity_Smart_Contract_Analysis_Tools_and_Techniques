@@ -27,7 +27,7 @@ npm install -g surya
 apt install graphviz
 ```
 
-*herw, you have to creat ur own file of .sol::--also you can go through with this given images:🔲
+*herw, you have to creat ur own file of .sol::--also you can go through with this given images:🔲*
 ![image](https://github.com/Rjesh2006/Solidity_Smart_Contract_Analysis_Tools_and_Techniques/assets/143868643/0bfc85fc-7e87-4191-be26-fd3118c0792f)
 
 
