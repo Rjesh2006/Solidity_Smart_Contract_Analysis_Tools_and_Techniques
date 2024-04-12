@@ -54,7 +54,7 @@
 
 ***repo file for Implementation:::🏗️***
 
-[clisk here to get the implimentation of **mythrill on ubuntu :**⬅️](https://github.com/Rjesh2006/Solidity_Smart_Contract_Analysis_Tools_and_Techniques/tree/main/Mythrill.md)
+[clisk here to get the implimentation of **mythrill on ubuntu:** ⬅️](https://github.com/Rjesh2006/Solidity_Smart_Contract_Analysis_Tools_and_Techniques/tree/main/Mythrill.md)
 
 
 
