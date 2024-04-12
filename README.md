@@ -38,7 +38,7 @@
 
 
 
-### Mythril Summary:
+# 3. Mythril Summary:
 
 - **Purpose**: Security tool for Ethereum smart contracts.
   
